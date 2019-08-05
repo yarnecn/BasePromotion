@@ -17,6 +17,8 @@ public class IntegerCache {
         Integer i4 = 128;
         Integer i5 = 127;
         Integer i6 = 127;
+
+
         System.out.println(i1 == i2);
         System.out.println(i3 == i4);
         System.out.println(i5 == i6);
