@@ -1,4 +1,4 @@
-package cn.base.Reflection;
+package cn.base.Proxy;
 
 /**
  * @program: BasePromotion
